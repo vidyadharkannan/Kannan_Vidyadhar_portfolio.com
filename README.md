@@ -1,4 +1,4 @@
-# Portfolio
+# Kannan Vidyadhar Portfolio
 
 ## About me
 
