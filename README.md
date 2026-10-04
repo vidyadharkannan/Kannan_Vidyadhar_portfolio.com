@@ -34,7 +34,7 @@ The project aimed to develop a collaborative robot (cobot)-based knee test bench
 **Technologies:**  
 ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Genetic Algorithm • Admittance Control • Iterative Learning Control (ILC)
 
-[**View Full Project →**](...)
+[**Link for full project**]
 
 
 
