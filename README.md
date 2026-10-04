@@ -14,7 +14,7 @@
 **Project Description:**
 The project aimed to develop a collaborative robot (cobot)-based knee test bench designed to detect and replicate the Instantaneous Centre of Rotation (ICR) of the human knee during flexion and extension. Additionally, it explored different control strategies to achieve the desired knee motion while ensuring compliant physical interaction.
 
-**Biomechanical Modelling and ICR Reconstruction**
+**Biomechanical Modelling and ICR Reconstruction:**
 - Used experimentally measured tibiofemoral kinematic data, including flexion–extension(FE) angle and anterior–posterior(AP) and superior–inferior(SI) translations.
 - Reconstructed the motion of tibial reference points relative to the femur and applied the Reuleaux geometric method to estimate the Instantaneous Centre of Rotation (ICR) between consecutive configurations.
 - Generated a reference ICR trajectory representing the migration of the knee centre of rotation throughout flexion–extension, which was subsequently used as the target for mechanism optimisation.
