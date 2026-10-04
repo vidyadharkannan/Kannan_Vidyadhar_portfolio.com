@@ -59,6 +59,28 @@ Worked on the maintenance, troubleshooting, and automation of industrial product
 PLC • Industrial Automation • Sensors & Actuators • Electrical Troubleshooting • Mechanical Maintenance
 
 
+### Robotics Engineer — Consciente Technologies
+**Hyderabad, India | November 2021 – August 2022**
+
+**Description:**  
+Worked on the modelling, simulation, and motion planning of robotic manipulators, with a focus on robot kinematics, dynamics, and ROS-based simulation.
+
+**Robot Modelling & Analysis:**
+- Implemented forward and inverse kinematics and studied the dynamics of a 6-DOF robotic manipulator.
+- Performed workspace, velocity ellipsoid, and singularity analysis to evaluate manipulator behaviour.
+
+**Motion Planning & Simulation:**
+- Used ROS and MoveIt for manipulator motion planning, simulation, and testing.
+- Evaluated robot configurations and trajectories in simulated environments.
+
+**Technologies:**  
+ROS • MoveIt • C++ • Python • Robot Kinematics • Robot Dynamics • Motion Planning
+
+
+
+
+
+
 
 
   
