@@ -11,7 +11,7 @@
 **Laboratoire des Sciences du Numérique de Nantes | Nantes, France**  
 *February 2026 – August 2026*
 #### Collaborative Robot-Based Test Bench for Knee Motion Simulation and ICR Estimation
-**Project Description**
+**Project Description:**
 -The project aimed to develop a collaborative robot (cobot)-based knee test bench designed to detect and replicate the Instantaneous Centre of Rotation (ICR) of the human knee during flexion and extension. Additionally, it explored different control strategies to achieve the desired knee motion while ensuring compliant physical interaction.
 **Biomechanical Modelling and ICR Reconstruction**
 - Used experimentally measured tibiofemoral kinematic data, including flexion–extension(FE) angle and anterior–posterior(AP) and superior–inferior(SI) translations.
@@ -24,15 +24,14 @@
 - Implemented a Genetic Algorithm in MATLAB to optimise the geometric parameters of the mechanism by minimising the difference between the mechanism-generated and reference ICR trajectories.
 - Designed and manufactured the optimised mechanism for integration with the robotic test bench.
 
-  **Robot Integration & Control:**
+**Robot Integration & Control:**
 - Integrated the optimised cross four-bar mechanism with a Franka Research 3 (FR3) collaborative robot and implemented the control framework in ROS 2.
 - Developed a Jacobian-based joint-velocity control framework, mapping the desired Cartesian motion to FR3 joint velocities using the pseudoinverse of the robot Jacobian.
 - Implemented admittance control using the measured interaction wrench to provide compliant motion during physical robot–mechanism interaction.
 - Developed and investigated three control strategies: Fixed ICR, mechanism-based Moving ICR, and Iterative Learning Control (ILC) for cycle-to-cycle adaptation of the desired ICR trajectory.
 
 **Technologies:**  
-`ROS 2` `C++` `Python` `MATLAB` `SolidWorks` `Franka Research 3` `Genetic Algorithm` `Admittance Control` `ILC`
-
+ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Genetic Algorithm • Admittance Control • Iterative Learning Control (ILC)
 [**View Full Project →**](...)
 
 
