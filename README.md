@@ -12,6 +12,7 @@
 *February 2026 – August 2026*
 #### Collaborative Robot-Based Test Bench for Knee Motion Simulation and ICR Estimation
 **Project Description:**
+<br>
 The project aimed to develop a collaborative robot (cobot)-based knee test bench designed to detect and replicate the Instantaneous Centre of Rotation (ICR) of the human knee during flexion and extension. Additionally, it explored different control strategies to achieve the desired knee motion while ensuring compliant physical interaction.
 
 **Biomechanical Modelling and ICR Reconstruction:**
@@ -33,6 +34,8 @@ The project aimed to develop a collaborative robot (cobot)-based knee test bench
 
 **Technologies:**  
 ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Genetic Algorithm • Admittance Control • Iterative Learning Control (ILC)
+
+<br>
 
 [**Link for full project**] - ()
 
