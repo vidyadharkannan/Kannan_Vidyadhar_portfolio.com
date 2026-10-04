@@ -1,6 +1,5 @@
-# Kannan_Vidyadhar
-### Robotics and Mechatronics Engineer
-Master's in Advanced Robotics — École Centrale de Nantes, France
+# Portfolio
+
 ## About me
 
 
@@ -11,9 +10,12 @@ Master's in Advanced Robotics — École Centrale de Nantes, France
 
 
 ## Technical Skills
+
 ## Projects
 
 ## Education
+- École Centrale de Nantes
+- SRM Institute of Science and Technology
 
 ## Research & Publications
 
