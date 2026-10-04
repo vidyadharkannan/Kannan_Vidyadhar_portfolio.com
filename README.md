@@ -40,6 +40,23 @@ ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Gen
 [**Link for full project**] - ()
 
 
+### Maintenance Engineer Trainee — Ali Shaihani Group of Industries
+**Oman | September 2022 – June 2024**
+
+**Description:**  
+Worked on the maintenance, troubleshooting, and automation of industrial production and packaging machinery, gaining hands-on experience with electromechanical systems in an industrial environment.
+
+**Maintenance & Troubleshooting:**
+- Performed preventive and corrective maintenance on industrial machinery and assisted in diagnosing mechanical and electrical faults.
+- Worked with production equipment involving motors, sensors, actuators, and industrial control systems.
+
+**Industrial Automation:**
+- Developed PLC control logic for an automated potato peeling machine as part of an industrial automation project.
+- Supported the integration and testing of the automated system during implementation.
+
+**Technologies:**  
+PLC • Industrial Automation • Sensors & Actuators • Electrical Troubleshooting • Mechanical Maintenance
+
 
 
 
