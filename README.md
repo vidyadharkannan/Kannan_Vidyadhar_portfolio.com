@@ -44,6 +44,7 @@ ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Gen
 **Oman | September 2022 – June 2024**
 
 **Description:**  
+
 Worked on the maintenance, troubleshooting, and automation of industrial production and packaging machinery, gaining hands-on experience with electromechanical systems in an industrial environment.
 
 **Maintenance & Troubleshooting:**
