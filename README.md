@@ -75,7 +75,7 @@ Performed maintenance, troubleshooting, and automation of industrial production 
 - Supported the integration and testing of the automated system during implementation.
 
 **Technologies:**  
-PLC • Industrial Automation • Sensors & Actuators • Electrical Troubleshooting • Mechanical Maintenance
+PLC • Industrial Automation • Sensors & Actuators • Mechanical Maintenance
 
 
 ### Robotics Engineer — Consciente Technologies
@@ -151,7 +151,7 @@ C++ • Python • MATLAB
 ROS 2 • ROS • MoveIt • Orocos KDL • Gazebo • RViz • Git • Linux • CMake
 
 **Robot Modelling & Control:**  
-Forward & Inverse Kinematics • Jacobian Methods • Robot Dynamics • Cartesian Impedance Control • Admittance Control • Iterative Learning Control • Motion Planning
+Forward & Inverse Kinematics • Jacobian • Robot Dynamics • Impedance Control • Admittance Control • Iterative Learning Control • Motion Planning
 
 **Mobile Robotics & Navigation:**  
 Mobile Robot Navigation • Odometry • Trajectory Prediction • Obstacle Avoidance • Heading Control • Quaternion & Euler Representations
@@ -160,10 +160,10 @@ Mobile Robot Navigation • Odometry • Trajectory Prediction • Obstacle Avoi
 SolidWorks • CATIA • Fusion 360 • Mechanism Design • CAD • Additive Manufacturing
 
 **Optimisation & Numerical Methods:**  
-Genetic Algorithms • MATLAB Optimisation • Numerical Modelling
+Genetic Algorithms • Numerical Modelling
 
 **Industrial Automation:**  
-PLC • Sensors & Actuators • Industrial Automation • Electromechanical Troubleshooting
+PLC • Sensors & Actuators • Industrial Automation 
 
 
 
