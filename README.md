@@ -1,4 +1,8 @@
-# Kannan Vidyadhar Portfolio
+# Kannan Vidyadhar
+
+<p align="center">
+  <img src="docs/assets/DSC_6228%20(1).JPG" width="180">
+</p>
 
 ## About me
 
