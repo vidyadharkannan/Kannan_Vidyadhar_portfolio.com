@@ -45,7 +45,7 @@ ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Gen
 
 **Description:**  
 
-Worked on the maintenance, troubleshooting, and automation of industrial production and packaging machinery, gaining hands-on experience with electromechanical systems in an industrial environment.
+Performed maintenance, troubleshooting, and automation of industrial production and packaging machinery, gaining hands-on experience with electromechanical systems in an industrial environment.
 
 **Maintenance & Troubleshooting:**
 - Performed preventive and corrective maintenance on industrial machinery and assisted in diagnosing mechanical and electrical faults.
@@ -63,7 +63,7 @@ PLC • Industrial Automation • Sensors & Actuators • Electrical Troubleshoo
 **Hyderabad, India | November 2021 – August 2022**
 
 **Description:**  
-Worked on the modelling, simulation, and motion planning of robotic manipulators, with a focus on robot kinematics, dynamics, and ROS-based simulation.
+Worked on modelling, simulation, and motion planning for robotic manipulators, focusing on robot kinematics, dynamics, and ROS-based simulation.
 
 **Robot Modelling & Analysis:**
 - Implemented forward and inverse kinematics and studied the dynamics of a 6-DOF robotic manipulator.
@@ -88,6 +88,41 @@ ROS • MoveIt • C++ • Python • Robot Kinematics • Robot Dynamics • Mo
 ## Technical Skills
 
 ## Projects
+
+### Robotised Tele-Echography System
+**École Centrale de Nantes**
+
+Bilateral teleoperation system using a Haption Virtuose 6D haptic device and a Franka Panda robotic manipulator.
+
+**Key Work:**
+- Developed Cartesian impedance control for the Franka Panda in C++.
+- Used the Kinematics and Dynamics Library (KDL) for forward kinematics and Jacobian computation.
+- Implemented Jacobian-based Cartesian-to-joint torque mapping for robot control.
+- Integrated the Haption Virtuose 6D for master-side teleoperation.
+- Implemented force feedback and a virtual spring boundary for haptic interaction.
+- Analysed system behaviour using ROS bags and RQT.
+
+**Technologies:**  
+ROS 2 • C++ • Python • Franka Panda • Haption Virtuose 6D • Orocos KDL • Cartesian Impedance Control • Gazebo • RViz
+
+[**View Full Project**](PROJECT_LINK)
+
+
+
+### ROS 2 Predictive Navigation
+**SOFAR — Software Architecture Lab, École Centrale de Nantes | May 2025**
+
+**Description:**  
+Developed a predictive navigation controller in ROS 2 for Turtlesim and TurtleBot, where candidate robot motions were evaluated to select safe velocity commands for goal-directed navigation around static obstacles.
+
+**Key Work:**
+- Developed a Python-based controller that predicted candidate robot trajectories for different angular velocities and selected a suitable path for obstacle avoidance.
+- Used TurtleBot odometry and quaternion orientation data for robot pose and heading estimation.
+- Implemented adaptive navigation behaviours including heading correction, straight-line motion when aligned with the target, and stopping at the goal.
+- Implemented angle normalisation and Euler–quaternion conversions for stable heading tracking.
+
+**Technologies:**  
+ROS 2 • Python • TurtleBot • Turtlesim • Odometry • Predictive Navigation • Obstacle Avoidance
 
 ## Education
 - École Centrale de Nantes
