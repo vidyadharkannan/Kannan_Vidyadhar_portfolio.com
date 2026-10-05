@@ -208,5 +208,6 @@ Biomechanics • Medical Robotics • Mechanism Optimisation • Human Knee Kine
 I am currently interested in opportunities in robotics, robot control, mechatronics, medical robotics, and research.
 
 **Email:** kannanvidyadhar98@gmail.com 
-**LinkedIn:** https://www.linkedin.com/in/kannanvidyadhar/  
+
+**LinkedIn:** [Kannan Vidyadhar] (https://www.linkedin.com/in/kannanvidyadhar/). 
 **GitHub:** [vidyadharkannan](https://github.com/vidyadharkannan)
