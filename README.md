@@ -2,12 +2,16 @@
 
 ## About me
 
+<p align="justify">
 I am a Robotics Engineer with a Master's degree in Advanced Robotics from École Centrale de Nantes, France.
+</p>
 <p align="justify">
 My experience spans robot control, mechatronic system development, biomechanical modelling, optimisation, and physical human–robot interaction. I have worked with collaborative robotic manipulators, haptic teleoperation, mobile robot navigation, and industrial automation, with experience taking robotic systems from mathematical modelling and simulation to implementation and experimental testing on real hardware.
 </p>
 
+<p align="justify">
 My main interests are robot control, physical human–robot interaction, medical robotics, rehabilitation robotics, and mechatronics system Developement.
+</p>
 
 ## My Vision 
 
@@ -18,25 +22,56 @@ My main interests are robot control, physical human–robot interaction, medical
 *February 2026 – August 2026*
 #### Thesis Title: Collaborative Robot-Based Test Bench for Knee Motion Simulation and ICR Estimation
 **Project Description:**
-
+<p align="justify">
 The project aimed to develop a collaborative robot (cobot)-based knee test bench designed to detect and replicate the Instantaneous Centre of Rotation (ICR) of the human knee during flexion and extension. Additionally, it explored different control strategies to achieve the desired knee motion while ensuring compliant physical interaction.
+</p>
 
 **Biomechanical Modelling and ICR Reconstruction:**
+<p align="justify">
 - Used experimentally measured tibiofemoral kinematic data, including flexion–extension(FE) angle and anterior–posterior(AP) and superior–inferior(SI) translations.
+</p>
+
+<p align="justify">
 - Reconstructed the motion of tibial reference points relative to the femur and applied the Reuleaux geometric method to estimate the Instantaneous Centre of Rotation (ICR) between consecutive configurations.
+</p>
+
+<p align="justify">
 - Generated a reference ICR trajectory representing the migration of the knee centre of rotation throughout flexion–extension, which was subsequently used as the target for mechanism optimisation.
+</p>
 
 **Mechanism Design & Optimisation:**
+<p align="justify">
 - Modelled a closed-chain cross four-bar mechanism designed to reproduce the polycentric motion of the human knee and derived its kinematic and loop-closure equations.
+</p>
+
+<p align="justify">
 - Determined the mechanism-generated ICR throughout flexion–extension and compared its trajectory with the reconstructed reference knee ICR from the tibiofemoral kinematics data.
+</p>
+
+<p align="justify">
 - Implemented a Genetic Algorithm in MATLAB to optimise the geometric parameters of the mechanism by minimising the difference between the mechanism-generated and reference ICR trajectories.
+</p>
+
+<p align="justify">
 - Designed and manufactured the optimised mechanism for integration with the robotic test bench.
+</p>
 
 **Robot Integration & Control:**
+<p align="justify">
 - Integrated the optimised cross four-bar mechanism with a Franka Research 3 (FR3) collaborative robot and implemented the control framework in ROS 2.
+</p>
+
+<p align="justify">
 - Developed a Jacobian-based joint-velocity control framework, mapping the desired Cartesian motion to FR3 joint velocities using the pseudoinverse of the robot Jacobian.
+</p>
+
+<p align="justify">
 - Implemented admittance control using the measured interaction wrench to provide compliant motion during physical robot–mechanism interaction.
+</p>
+
+<p align="justify">
 - Developed and investigated three control strategies: Fixed ICR, mechanism-based Moving ICR, and Iterative Learning Control (ILC) for cycle-to-cycle adaptation of the desired ICR trajectory.
+</p>
 
 **Technologies:**  
 ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Genetic Algorithm • Admittance Control • Iterative Learning Control (ILC)
@@ -50,12 +85,20 @@ ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Gen
 **Oman | September 2022 – June 2024**
 
 **Description:**  
-
+<p align="justify">
 Performed maintenance, troubleshooting, and automation of industrial production and packaging machinery, gaining hands-on experience with electromechanical systems in an industrial environment.
+</p>
 
 **Maintenance & Troubleshooting:**
+<p align="justify">
 - Performed preventive and corrective maintenance on industrial machinery and assisted in diagnosing mechanical and electrical faults.
+</p>
+
+<p align="justify">
+
 - Worked with production equipment involving motors, sensors, actuators, and industrial control systems.
+
+</p>
 
 **Industrial Automation:**
 - Developed PLC control logic for an automated potato peeling machine as part of an industrial automation project.
