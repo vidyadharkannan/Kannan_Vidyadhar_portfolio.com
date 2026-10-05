@@ -15,6 +15,10 @@ My main interests are robot control, physical human–robot interaction, medical
 
 ## My Vision 
 
+<p align="justify">
+I am fascinated by how robots can interact with humans in unstructured and unpredictable environments. Through my projects and research experience, I have developed a particular interest in rehabilitation and surgical robotics, especially in how robots can assist people and support complex tasks in healthcare.
+I want to work on challenging problems in medical robotics where I can apply my experience in robotics, control, and mechatronics while continuing to learn. In the long term, I want to contribute to robotic systems that can make a practical difference in rehabilitation and healthcare.
+</p>
 
 ## Experience
 ### Master's Research Intern — LS2N
