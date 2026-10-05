@@ -87,8 +87,6 @@ ROS • MoveIt • C++ • Python • Robot Kinematics • Robot Dynamics • Mo
 
 ## Technical Skills
 
-## Projects
-
 ### Robotised Tele-Echography System
 **École Centrale de Nantes**
 
@@ -123,6 +121,12 @@ Developed a predictive navigation controller in ROS 2 for Turtlesim and TurtleBo
 
 **Technologies:**  
 ROS 2 • Python • TurtleBot • Turtlesim • Odometry • Predictive Navigation • Obstacle Avoidance
+
+
+## Projects
+
+
+
 
 ## Education
 - École Centrale de Nantes
