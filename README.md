@@ -84,8 +84,8 @@ ROS • MoveIt • C++ • Python • Robot Kinematics • Robot Dynamics • Mo
 
 
   
+## Projects
 
-## Technical Skills
 
 ### Robotised Tele-Echography System
 **École Centrale de Nantes**
@@ -123,15 +123,57 @@ Developed a predictive navigation controller in ROS 2 for Turtlesim and TurtleBo
 ROS 2 • Python • TurtleBot • Turtlesim • Odometry • Predictive Navigation • Obstacle Avoidance
 
 
-## Projects
+## Technical Skills
+
+**Programming:**  
+C++ • Python • MATLAB
+
+**Robotics & Software:**  
+ROS 2 • ROS • MoveIt • Orocos KDL • Gazebo • RViz • Git • Linux • CMake
+
+**Robot Modelling & Control:**  
+Forward & Inverse Kinematics • Jacobian Methods • Robot Dynamics • Cartesian Impedance Control • Admittance Control • Iterative Learning Control • Motion Planning
+
+**Mechanical Design & Engineering:**  
+SolidWorks • CATIA • Fusion 360 • Mechanism Design • CAD • Additive Manufacturing
+
+**Optimisation & Numerical Methods:**  
+Genetic Algorithms • MATLAB Optimisation • Numerical Modelling
+
+**Industrial Automation:**  
+PLC • Sensors & Actuators • Industrial Automation • Electromechanical Troubleshooting
 
 
 
 
 ## Education
-- École Centrale de Nantes
-- SRM Institute of Science and Technology
+### Master of Science — Advanced Robotics
+**École Centrale de Nantes | Nantes, France**  
+*2024 – 2026*
+
+CORO-IMARO programme with a focus on robotics, control, modelling, and autonomous systems.
+
+**Master's Thesis:**  
+*Collaborative Robot-Based Test Bench for Knee Motion Simulation and Instantaneous Centre of Rotation Estimation*
+
+### Bachelor of Technology — Mechatronics Engineering
+**SRM Institute of Science and Technology | Chennai, India**  
+*2017 – 2021*
 
 ## Research & Publications
 
+### Cross Four-Bar Mechanism for Human Knee ICR Reproduction
+**Research manuscript in preparation**
+
+Ongoing research based on my Master's thesis at LS2N, focusing on the geometric optimisation of a cross four-bar mechanism for reproducing the physiological Instantaneous Centre of Rotation (ICR) trajectory of the human knee.
+
+**Research Areas:**  
+Biomechanics • Medical Robotics • Mechanism Optimisation • Human Knee Kinematics • Robot-Assisted Experimentation
+
 ## Contact
+
+I am currently interested in opportunities in robotics, robot control, mechatronics, medical robotics, and research.
+
+**Email:** kannanvidyadhar98@gmail.com 
+**LinkedIn:** [Kannan Vidyadhar](www.linkedin.com/in/kannanvidyadhar)  
+**GitHub:** [vidyadharkannan](https://github.com/vidyadharkannan)
