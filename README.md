@@ -2,6 +2,11 @@
 
 ## About me
 
+I am a Robotics Engineer with a Master's degree in Advanced Robotics from École Centrale de Nantes, France.
+
+My experience spans robot control, mechatronic system development, biomechanical modelling, optimisation, and physical human–robot interaction. I have worked with collaborative robotic manipulators, haptic teleoperation, mobile robot navigation, and industrial automation, with experience taking robotic systems from mathematical modelling and simulation to implementation and experimental testing on real hardware.
+
+My main interests are robot control, physical human–robot interaction, medical robotics, rehabilitation robotics, and mechatronics system Developement.
 
 ## My Vision 
 
