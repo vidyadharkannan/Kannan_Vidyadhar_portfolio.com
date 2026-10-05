@@ -209,5 +209,5 @@ I am currently interested in opportunities in robotics, robot control, mechatron
 
 **Email:** kannanvidyadhar98@gmail.com 
 
-**LinkedIn:** [Kannan Vidyadhar] (https://www.linkedin.com/in/kannanvidyadhar/). 
+**LinkedIn:** [Kannan Vidyadhar](https://www.linkedin.com/in/kannanvidyadhar/). 
 **GitHub:** [vidyadharkannan](https://github.com/vidyadharkannan)
