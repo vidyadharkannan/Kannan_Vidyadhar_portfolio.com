@@ -10,7 +10,7 @@ My experience spans robot control, mechatronic system development, biomechanical
 </p>
 
 <p align="justify">
-My main interests are robot control, physical human–robot interaction, medical robotics, rehabilitation robotics, and mechatronics system Developement.
+My main interests are robot control, physical human–robot interaction, medical robotics, rehabilitation robotics, and mechatronics system developement.
 </p>
 
 ## My Vision 
