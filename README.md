@@ -134,6 +134,9 @@ ROS 2 • ROS • MoveIt • Orocos KDL • Gazebo • RViz • Git • Linux �
 **Robot Modelling & Control:**  
 Forward & Inverse Kinematics • Jacobian Methods • Robot Dynamics • Cartesian Impedance Control • Admittance Control • Iterative Learning Control • Motion Planning
 
+**Mobile Robotics & Navigation:**  
+Mobile Robot Navigation • Odometry • Trajectory Prediction • Obstacle Avoidance • Heading Control • Quaternion & Euler Representations
+
 **Mechanical Design & Engineering:**  
 SolidWorks • CATIA • Fusion 360 • Mechanism Design • CAD • Additive Manufacturing
 
