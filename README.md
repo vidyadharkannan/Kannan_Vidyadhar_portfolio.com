@@ -150,7 +150,7 @@ PLC • Sensors & Actuators • Industrial Automation • Electromechanical Trou
 
 
 ## Education
-### Master of Science — Advanced Robotics
+### Master of Science — Control and Robotics Advanced Robotics(CORO - IMARO)
 **École Centrale de Nantes | Nantes, France**  
 *2024 – 2026*
 
