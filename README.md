@@ -59,7 +59,7 @@ ROS 2 • C++ • Python • MATLAB • SolidWorks • Franka Research 3 • Gen
 
 <br>
 
-[**Link for full project**] - ()
+[**Link for full project**] - (https://github.com/vidyadharkannan/robotic-knee-test-bench.git)
 
 
 ### Maintenance Engineer Trainee — Ali Shaihani Group of Industries
