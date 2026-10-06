@@ -125,7 +125,7 @@ Bilateral teleoperation system using a Haption Virtuose 6D haptic device and a F
 **Technologies:**  
 ROS 2 • C++ • Python • Franka Panda • Haption Virtuose 6D • Orocos KDL • Cartesian Impedance Control • Gazebo • RViz
 
-[**View Full Project**](PROJECT_LINK)
+[**View Full Project**](https://github.com/vidyadharkannan/ros2-robotized-tele-echography.git)
 
 
 
